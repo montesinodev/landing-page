@@ -18,7 +18,7 @@ The page includes a hero section, features overview, pricing plans with call-to-
 - **JavaScript** for interactivity (form validation & nav highlighting)  
 
 ## 📸 Preview  
-[Screenshot](assets/screenshot.png)    
+(assets/screenshot.png)    
 
 ## 🌍 Live Demo  
 👉 [View Live Demo](https://montesinodev.github.io/landing-page/)  
