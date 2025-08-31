@@ -24,8 +24,8 @@ The page includes a hero section, features overview, pricing plans with call-to-
 👉 [View Live Demo](https://montesinodev.github.io/landing-page/)  
 
 ## 📂 Project Structure  
-├── index.html
-├── style.css
+├── index.html  
+├── style.css  
 └── script.js
 
 
