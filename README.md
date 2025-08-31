@@ -39,3 +39,7 @@ The page includes a hero section, features overview, pricing plans with call-to-
 📬 Contact
 
 If you'd like to connect, feel free to reach out via [LinkedIn](https://www.linkedin.com/in/marlon-m-324a70147)
+
+---
+
+⭐ Don’t forget to star this repo if you like it!
